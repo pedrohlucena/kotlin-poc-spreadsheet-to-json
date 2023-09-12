@@ -31,3 +31,6 @@ In the "AndroidManifest.xml" file, like this:
 </manifest>
 ```
 In addition, the user has to allow the app to access its storage in "App Info" section.
+
+# Minimum SDK
+POC performed with API 27 "Oreo" (Android 8.1).
